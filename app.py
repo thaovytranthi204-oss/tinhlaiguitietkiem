@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Tiêu đề ứng dụng
-st.title("💰 Ứng dụng tính tiền gửi tiết kiệm")
+st.title("APP TÍNH TIỀN GỬI TIẾT KIỆM TẠI NGÂN HÀNG_ ĐỀ TÀI 4 TRẦN THỊ THẢO VY")
 
 # Nhập dữ liệu
 C = st.number_input(
